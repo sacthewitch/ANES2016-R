@@ -1,0 +1,379 @@
+Data File: NES16(Selected Data Codebook)
+Original source: http://www.thearda.com/Archive/Files/Downloads/NES16_DL2.asp
+
+
+1) ID
+2016 Case ID
+RANGE: 300001 to 407800
+	N	Mean	Std. Deviation
+Total	4271	375574.292	45879.713
+
+
+2) Media
+During a typical week, how many days do you watch, read, or listen to news on TV, radio, printed newspapers, or the Internet, not including sports? 
+RANGE: -9 to 7
+	N	Mean	Std. Deviation
+Total	4271	5.526	2.006
+-9) Refused	2	0.0
+-8) Don't know	2	0.0
+0) None	73	1.7
+1) One day	187	4.4
+2) Two days	213	5.0
+3) Three days	287	6.7
+4) Four days	266	6.2
+5) Five days	641	15.0
+6) Six days	307	7.2
+7) Seven days	2293	53.7
+
+
+
+3) FamSize
+How many family members are living with you?
+RANGE: -9 to 12
+	N	Mean	Std. Deviation
+Total	4271	1.629	1.583
+-9) Refused	6	0.1
+0)	1106	25.9
+1)	1287	30.1
+2)	764	17.9
+3)	568	13.3
+4)	328	7.7
+5)	145	3.4
+6)	38	0.9
+7)	16	0.4
+8)	9	0.2
+9)	1	0.0
+11)	1	0.0
+12)	2	0.0
+
+
+4) Hilary
+Where would you place Hillary Clinton on this scale?
+RANGE: -9 to 7
+	N	Mean	Std. Deviation
+Total	4271	2.429	2.364
+-9) Refused	44	1.0
+-8) Don't know	70	1.6
+1) Extremely liberal	1025	24.0
+2) Liberal	1274	29.8
+3) Slightly liberal	619	14.5
+4) Moderate, middle of the road	695	16.3
+5) Slightly conservative	237	5.5
+6) Conservative	212	5.0
+7) Extremely conservative	95	2.2
+
+
+5) Trump
+Where would you place Donald Trump on this scale?
+RANGE: -9 to 7
+	N	Mean	Std. Deviation
+Total	4271	4.357	3.112
+-9) Refused	59	1.4
+-8) Don't know	108	2.5
+1) Extremely liberal	331	7.7
+2) Liberal	262	6.1
+3) Slightly liberal	212	5.0
+4) Moderate, middle of the road	614	14.4
+5) Slightly conservative	833	19.5
+6) Conservative	1072	25.1
+7) Extremely conservative	780	18.3
+
+
+6) Age
+PRE: Respondent age
+RANGE: -9 to 90
+	N	Mean	Std. Deviation
+Total	4271	47.916	19.869
+-9) Refused	120	2.8
+-8) Don't know	1	0.0
+18)	28	0.7
+19)	39	0.9
+20)	54	1.3
+21)	53	1.2
+22)	44	1.0
+23)	56	1.3
+24)	55	1.3
+25)	63	1.5
+26)	70	1.6
+27)	70	1.6
+28)	60	1.4
+29)	60	1.4
+30)	69	1.6
+31)	78	1.8
+32)	86	2.0
+33)	73	1.7
+34)	81	1.9
+35)	79	1.8
+36)	69	1.6
+37)	85	2.0
+38)	66	1.5
+39)	75	1.8
+40)	51	1.2
+41)	66	1.5
+42)	67	1.6
+43)	51	1.2
+44)	46	1.1
+45)	70	1.6
+46)	83	1.9
+47)	66	1.5
+48)	53	1.2
+49)	67	1.6
+50)	59	1.4
+51)	72	1.7
+52)	59	1.4
+53)	81	1.9
+54)	78	1.8
+55)	78	1.8
+56)	88	2.1
+57)	76	1.8
+58)	94	2.2
+59)	96	2.2
+60)	89	2.1
+61)	80	1.9
+62)	69	1.6
+63)	72	1.7
+64)	75	1.8
+65)	69	1.6
+66)	88	2.1
+67)	78	1.8
+68)	94	2.2
+69)	55	1.3
+70)	54	1.3
+71)	49	1.1
+72)	53	1.2
+73)	38	0.9
+74)	45	1.1
+75)	34	0.8
+76)	41	1.0
+77)	26	0.6
+78)	29	0.7
+79)	21	0.5
+80)	24	0.6
+81)	24	0.6
+82)	24	0.6
+83)	12	0.3
+84)	13	0.3
+85)	12	0.3
+86)	14	0.3
+87)	9	0.2
+88)	12	0.3
+89)	6	0.1
+90) Age 90 or older	27	0.6
+
+
+7) Partner
+IF R MARITAL STATUS IS NEVER MARRIED, WIDOWED, DIVORCED OR SEPARATED: Are you currently living with a partner, or not?
+RANGE: -9 to 2
+	N	Mean	Std. Deviation
+Total	4271	0.342	1.571
+-9) Refused	21	0.5
+-1) Inapplicable	2149	50.3
+1) Yes, living with a partner	404	9.5
+2) No, not living with a partner	1697	39.7
+
+
+8) Education
+What is the highest level of school you have completed or the highest degree you have received?
+RANGE: -9 to 95
+	N	Mean	Std. Deviation
+Total	4271	11.663	7.301
+-9) Refused	15	0.4
+1) Less than 1st grade	1	0.0
+2) 1st, 2nd, 3rd or 4th grade	3	0.1
+3) 5th or 6th grade	15	0.4
+4) 7th or 8th grade	22	0.5
+5) 9th grade	32	0.7
+6) 10th grade	40	0.9
+7) 11th grade	62	1.5
+8) 12th grade no diploma	107	2.5
+9) High school graduate- high school diploma or equivalent (for example: GED)	810	19.0
+10) Some college but no degree	899	21.0
+11) Associate degree in college - occupational/vocational program	313	7.3
+12) Associate degree in college - academic program	288	6.7
+13) Bachelor's degree (for example: BA, AB, BS)	955	22.4
+14) Master's degree (for example: MA, MS, MENG, MED, MSW, MBA)	499	11.7
+15) Professional school degree (for example: MD, DDS, DVM, LLB, JD)	88	2.1
+16) Doctorate degree (for example: PHD, EDD)	93	2.2
+90) Other specify given as: high school graduate	5	0.1
+95) Other SPECIFY	24	0.6
+
+
+
+9) SpouseEdu
+IF R IS MARRIED / IF R IS PARTNERED: What is the highest level of school your [husband or wife / partner] has completed or the highest degree your [husband or wife / partner] has received?
+RANGE: -9 to 99
+	N	Mean	Std. Deviation
+Total	4271	6.568	8.329
+-9) Refused	9	0.2
+-8) Don't know	6	0.1
+-1) Inapplicable	1724	40.4
+2) 1st, 2nd, 3rd or 4th grade	3	0.1
+3) 5th or 6th grade	8	0.2
+4) 7th or 8th grade	11	0.3
+5) 9th grade	16	0.4
+6) 10th grade	25	0.6
+7) 11th grade	33	0.8
+8) 12th grade no diploma	77	1.8
+9) High school graduate- high school diploma or equivalent (for example: GED)	479	11.2
+10) Some college but no degree	487	11.4
+11) Associate degree in college - occupational/vocational program	151	3.5
+12) Associate degree in college - academic program	149	3.5
+13) Bachelor's degree (for example: BA, AB, BS)	641	15.0
+14) Master's degree (for example: MA, MS, MENG, MED, MSW, MBA)	316	7.4
+15) Professional school degree (for example: MD, DDS, DVM, LLB, JD)	65	1.5
+16) Doctorate degree (for example: PHD, EDD)	55	1.3
+90) Other specify given as: high school graduate	2	0.0
+95) Other SPECIFY	13	0.3
+99) Other specify given as: no partner	1	0.0
+
+
+10) Employment
+We'd like to know if you are working now, temporarily laid off, or are you unemployed, retired, permanently disabled, a homemaker, a student, or what?
+RANGE: -9 to 8
+	N	Mean	Std. Deviation
+Total	4271	2.702	2.375
+-9) Refused	16	0.4
+1) Initial employment status: working now	2547	59.6
+2) Initial employment status: temporarily laid off	49	1.1
+4) Initial employment status: unemployed	220	5.2
+5) Initial employment status: retired	922	21.6
+6) Initial employment status: permanently disabled	182	4.3
+7) Initial employment status: homemaker	222	5.2
+8) Initial employment status: student	113	2.6
+
+
+11) Birthplace
+In what state, country, or territory were you born?
+RANGE: -9 to 7
+	N	Mean	Std. Deviation
+Total	4271	1.265	1.276
+-9) Refused	27	0.6
+-8) Don't know	1	0.0
+1) A U.S. state or D.C.	3768	88.2
+2) Puerto Rico	27	0.6
+3) Another U.S. territory (Guam, American Samoa, U.S. Virgin Islands)	15	0.4
+4) Another country (SPECIFY)	415	9.7
+7) Other specify as: U.S. location	18	0.4
+
+
+12) GBirth
+How many of your grandparents, if any, were born outside the U.S.A.?
+RANGE: -9 to 4
+	N	Mean	Std. Deviation
+Total	4271	0.995	1.515
+-9) Refused	24	0.6
+-8) Don't know	25	0.6
+0) None	1345	31.5
+1) One	1955	45.8
+2) Two	309	7.2
+3) Three	360	8.4
+4) All	253	5.9
+
+
+13) Dependent
+How many children or teenagers age 0 to 17 live in this household?
+RANGE: -9 to 9
+	N	Mean	Std. Deviation
+Total	4271	0.59	1.21
+-9) Refused	16	0.4
+0) No children	2820	66.0
+1) One child	633	14.8
+2) Two children	517	12.1
+3) Three children	186	4.4
+4) Four children	77	1.8
+5) Five children	10	0.2
+6) Six children	7	0.2
+7) Seven children	2	0.0
+9) More than eight children	3	0.1
+
+
+
+14) Housing
+Do you pay rent for your home, make monthly mortgage payments for your home, own your home outright with no payments due, or have some other living arrangement?
+RANGE: -9 to 4
+	N	Mean	Std. Deviation
+Total	4271	1.956	1.354
+-9) Refused	35	0.8
+-8) Don't know	2	0.0
+1) Pay rent	1286	30.1
+2) Pay mortgage	1754	41.1
+3) Own home with no payments due	886	20.7
+4) Some other arrangement	308	7.2
+
+
+15) Income
+Income category
+RANGE: -9 to 28
+	N	Mean	Std. Deviation
+Total	4271	14.245	9.409
+-9) Refused	190	4.4
+-5) Breakoff, sufficient partial IW	12	0.3
+1) Under $5,000	276	6.5
+2) $5,000-9,999	96	2.2
+3) $10,000-12,499	133	3.1
+4) $12,500-14,999	37	0.9
+5) $15,000-17,499	110	2.6
+6) $17,500-19,999	52	1.2
+7) $20,000-22,499	153	3.6
+8) $22,500-24,999	64	1.5
+9) $25,000-27,499	143	3.3
+10) $27,500-29,999	34	0.8
+11) $30,000-34,999	213	5.0
+12) $35,000-39,999	166	3.9
+13) $40,000-44,999	178	4.2
+14) $45,000-49,999	154	3.6
+15) $50,000-54,999	204	4.8
+16) $55,000-59,999	85	2.0
+17) $60,000-64,999	205	4.8
+18) $65,000-69,999	107	2.5
+19) $70,000-74,999	138	3.2
+20) $75,000-79,999	126	3.0
+21) $80,000-89,999	231	5.4
+22) $90,000-99,999	176	4.1
+23) $100,000-109,999	191	4.5
+24) $110,000-124,999	182	4.3
+25) $125,000-149,999	166	3.9
+26) $150,000-174,999	154	3.6
+27) $175,000-249,999	154	3.6
+28) $250,000 or more	141	3.3
+
+
+16) Education2
+What is the highest level of school you have completed or the highest degree you have received? (Recoded for use with online analysis)
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	4232	3.75	1.546
+1) 12th grade no diploma, or less	282	6.7
+2) High school graduate- high school diploma or equivalent (for example: GED)	815	19.3
+3) Some college but no degree	899	21.2
+4) Associate degree in college - occupational/vocational program or academic program	601	14.2
+5) Bachelor's degree (for example: BA, AB, BS)	955	22.6
+6) Master's degree, Professional school degree, or Doctorate degree	680	16.1
+Missing	39
+
+
+17) PartyID
+Generally speaking, do you usually think of yourself as [a Democrat, a Republican / a Republican, a Democrat], an independent, or what? (Recoded for use with online analysis)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	4246	2.073	0.919
+1) Democrat	1451	34.2
+2) Republican	1231	29.0
+3) Independent	1367	32.2
+4) Other party SPECIFY or no preference	197	4.6
+Missing	25
+
+
+18) Marital
+Are you now married, widowed, divorced, separated or never married? (Recoded for use with online analysis)
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	4244	2.431	1.664
+1) Married: spouse present or absent	2143	50.5
+2) Widowed	302	7.1
+3) Divorced	663	15.6
+4) Separated	98	2.3
+5) Never married	1038	24.5
+Missing	27
+
+
